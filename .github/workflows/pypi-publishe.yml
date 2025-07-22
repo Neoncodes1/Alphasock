@@ -1,4 +1,4 @@
-name: Publish Alphasock (npm + PyPI)
+name: Publish Alphasock (PyPI)
 
 on:
   push:

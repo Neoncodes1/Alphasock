@@ -1,0 +1,11 @@
+{
+  "name": "alphasock",
+  "version": "0.0.1",
+  "description": "Lightweight WhatsApp Web socket connector",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "neoncodes1",
+  "license": "MIT"
+}

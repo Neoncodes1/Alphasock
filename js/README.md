@@ -25,5 +25,13 @@
 
 ---
 
-## 📁 Structure (planned)
+## 🙋🏽‍♂️ Built By
+
+Created with pure hustle by [@Neoncodes1](https://github.com/Neoncodes1) — a dev who builds **everything from scratch**.
+
+---
+
+## 📜 License
+
+MIT (but still too raw to be useful for anything illegal or abusive)
 
